@@ -1,0 +1,7 @@
+.badge {
+    text-transform: capitalize;
+}
+
+.table td {
+    vertical-align: middle;
+} 
